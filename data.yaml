@@ -1,0 +1,5 @@
+train: D:\OneDrive\Desktop\New folder\resistor - Search Images\images\train
+val: D:\OneDrive\Desktop\New folder\resistor - Search Images\images\values
+
+names:
+  0: 'resistor'
